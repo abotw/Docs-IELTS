@@ -1,6 +1,5 @@
-# Prepositions
 
-# IELTS Prepositions – Global Map
+# Prepositions 1
 
 > Purpose of this note:
 > 
@@ -10,8 +9,6 @@
 >     
 > - Serve as a navigation index for later detailed studies
 >     
-
----
 
 ## 1. Three Semantic Dimensions of Prepositions
 
@@ -40,8 +37,6 @@ Key idea:
 
 > Abstract meanings are metaphorical extensions of spatial meanings.
 
----
-
 ### 1.2 Time (Temporal Relations)
 
 High-frequency temporal prepositions:
@@ -64,9 +59,6 @@ IELTS relevance:
 - Task 1 (processes, trends)
     
 - Listening (time references)
-    
-
----
 
 ### 1.3 Abstract Relations (Non-physical)
 
@@ -86,8 +78,6 @@ Major abstract categories:
     
 - Standard / perspective → in terms of
     
-
----
 
 ## 2. High-Frequency IELTS Prepositions (Priority Map)
 
@@ -117,8 +107,6 @@ Characteristics:
 - Small errors cause clear score loss
     
 
----
-
 ### 2.2 Tier 2 – Writing & Reading Core
 
 - by
@@ -140,8 +128,6 @@ Characteristics:
     
 - Frequently tested indirectly in reading comprehension
     
-
----
 
 ### 2.3 Tier 3 – Academic / Formal Expressions
 
@@ -167,8 +153,6 @@ Usage:
 - Add academic tone when used correctly
     
 
----
-
 ## 3. Prepositions vs Other Word Classes (Boundary Awareness)
 
 ### 3.1 Preposition vs Conjunction
@@ -186,8 +170,6 @@ Examples:
 - while (conjunction) vs during (preposition)
     
 
----
-
 ### 3.2 Preposition vs Adverb
 
 Criterion:
@@ -202,8 +184,6 @@ Common confusing pairs:
     
 - inside / outside
     
-
----
 
 ## 4. Common Prepositional Structures in IELTS Writing
 
@@ -226,8 +206,6 @@ Tip:
 
 > Treat them as single units, not word-by-word combinations.
 
----
-
 ## 5. Typical IELTS Error Zones (Overview)
 
 High-risk areas for Chinese learners:
@@ -241,10 +219,6 @@ High-risk areas for Chinese learners:
 - incorrect noun–preposition pairing
     
 
-These will be addressed in the **detailed analysis note**.
-
----
-
 ## 6. How to Use This Map
 
 - Do NOT memorize sentences here
@@ -255,5 +229,3 @@ These will be addressed in the **detailed analysis note**.
         
     - a navigation index
         
-- Each item here should later link to a **separate deep-dive note**
-    
