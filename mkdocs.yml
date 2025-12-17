@@ -1,5 +1,6 @@
 site_name: IELTS Docs
 site_url: http://abotw.github.io/Docs-IELTS
+repo_url: https://github.com/abotw/Docs-IELTS
 theme:
   name: material
   logo: assets/logo.svg

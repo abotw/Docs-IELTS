@@ -11,6 +11,6 @@
 - [泡芙方ProfFang@bilibili](https://space.bilibili.com/1140304215)
 - [星荣英语笔记@bilibili](https://space.bilibili.com/160507280)
 - [雅思9分Frankie@bilibili](https://space.bilibili.com/3546878069180571)
-- [SolomonG_雅思口语](https://space.bilibili.com/8038185)
-- [Ella聊美语](https://space.bilibili.com/340223423)
+- [SolomonG_雅思口语@bilibili](https://space.bilibili.com/8038185)
+- [Ella聊美语@bilibili](https://space.bilibili.com/340223423)
 - [暴击口语@bilibili](https://space.bilibili.com/433248184)
