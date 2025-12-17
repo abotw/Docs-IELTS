@@ -41,7 +41,7 @@ date: 2025-11-08
 
 - [https://science.nasa.gov/solar-system/planets/](https://science.nasa.gov/solar-system/planets/)
 
-![](../attachments/Pasted%20image%2020251108221800.png)
+![](Pasted%20image%2020251108221800.png)
 
 |Planet|Description|
 |---|---|
